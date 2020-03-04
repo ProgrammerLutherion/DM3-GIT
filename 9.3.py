@@ -8,7 +8,7 @@ while choose != 0:
     print("4. Enter a number and show the name and surname for that student")
     print("5. Change the name and surname of a student")
     print("0. Exit the program")
-    print()
+    print("")
     choose=int(input("What do you want to do next?: "))
     if choose==0:
         print("Thanks for using my program, see you next time!")
